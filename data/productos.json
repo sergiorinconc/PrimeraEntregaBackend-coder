@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "title": "Guitarra Acústica",
+    "description": "Guitarra acústica de cuerpo completo, ideal para principiantes y músicos experimentados. Su sonido cálido y resonante la convierte en una opción popular.",
+    "code": "GUIT-ACU-001",
+    "price": 2500000,
+    "stock": 15,
+    "category": "Cuerdas",
+    "status": true
+  }
+]
